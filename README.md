@@ -31,10 +31,10 @@ Freshly launched — these projects gained hundreds of stars within days:
 
 | Dashboard | ⭐ | Launched | Why it stands out |
 |---|---|---|---|
-| [TenacitOS](#-tenacitos--carlosazaustre) | ![](https://img.shields.io/github/stars/carlosazaustre/tenacitOS?style=flat-square&logo=github) | Feb 21 | 3D office, filesystem-native, zero extra infra |
-| [Nerve](#-nerve--daggerhashimoto) | ![](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&logo=github) | Feb 19 | Voice in 12 languages, TradingView charts, 14 themes |
-| [VidClaw](#-vidclaw--madrzak) | ![](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square&logo=github) | Feb 16 | Soul editor, model switching, one-command install |
-| [Clawtrol](#️-clawtrol--nachoiacovino) | ![](https://img.shields.io/github/stars/nachoiacovino/clawtrol?style=flat-square&logo=github) | Feb 11 | Remote screen viewer, RPi support, modular setup wizard |
+| [TenacitOS](https://github.com/carlosazaustre/tenacitOS) | ![](https://img.shields.io/github/stars/carlosazaustre/tenacitOS?style=flat-square&logo=github) | Feb 21 | 3D office, filesystem-native, zero extra infra |
+| [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | ![](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&logo=github) | Feb 19 | Voice in 12 languages, TradingView charts, 14 themes |
+| [VidClaw](https://github.com/madrzak/vidclaw) | ![](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square&logo=github) | Feb 16 | Soul editor, model switching, one-command install |
+| [Clawtrol](https://github.com/nachoiacovino/clawtrol) | ![](https://img.shields.io/github/stars/nachoiacovino/clawtrol?style=flat-square&logo=github) | Feb 11 | Remote screen viewer, RPi support, modular setup wizard |
 
 ---
 
@@ -42,19 +42,19 @@ Freshly launched — these projects gained hundreds of stars within days:
 
 | If you want… | Best choice | Difficulty |
 |---|---|---|
-| Enterprise orchestration + approval workflows | [Mission Control (abhi1693)](#-openclaw-mission-control--abhi1693) | 🟢 Easy |
-| Simple task board + AI planning for a team | [Mission Control (crshdn)](#-mission-control--crshdn) | 🟢 Easy |
-| Trello-style multi-agent coordination | [Clawe](#-clawe--getclawe) | 🟡 Medium |
-| 80+ agents across multiple machines | [AI Maestro](#-ai-maestro--23blocks-os) | 🟢 Easy |
-| Clean all-in-one developer dashboard | [OpenClaw Studio](#️-openclaw-studio--grp06) | 🟢 Easy |
-| Jaw-dropping local dashboard, no dependencies | [TenacitOS](#-tenacitos--carlosazaustre) | 🟡 Medium |
-| Voice + full workspace + charts | [Nerve](#-nerve--daggerhashimoto) | 🟢 Easy |
-| Kanban + soul editor + model switching | [VidClaw](#-vidclaw--madrzak) | 🟢 Easy |
-| Zero-dependency, 11 panels, 6 themes | [OpenClaw Dashboard (mudrii)](#-openclaw-dashboard--mudrii) | 🟢 Easy |
-| Maximum security + TOTP MFA | [OpenClaw Dashboard (tugcan)](#-openclaw-dashboard--tugcantopaloglu) | 🟢 Easy |
-| Lightweight, ~200KB, no framework | [Command Center (jontsai)](#-openclaw-command-center--jontsai) | 🟢 Easy |
-| btop/htop-style terminal view | [Claw Dashboard (spleck)](#️-claw-dashboard--spleck) | 🟢 Easy |
-| Run OpenClaw on Android | [OpenClaw Termux](#-openclaw-termux--mithun50) | 🟢 Easy |
+| Enterprise orchestration + approval workflows | [Mission Control (abhi1693)](https://github.com/abhi1693/openclaw-mission-control) | 🟢 Easy |
+| Simple task board + AI planning for a team | [Mission Control (crshdn)](https://github.com/crshdn/mission-control) | 🟢 Easy |
+| Trello-style multi-agent coordination | [Clawe](https://github.com/getclawe/clawe) | 🟡 Medium |
+| 80+ agents across multiple machines | [AI Maestro](https://github.com/23blocks-OS/ai-maestro) | 🟢 Easy |
+| Clean all-in-one developer dashboard | [OpenClaw Studio](https://github.com/grp06/openclaw-studio) | 🟢 Easy |
+| Jaw-dropping local dashboard, no dependencies | [TenacitOS](https://github.com/carlosazaustre/tenacitOS) | 🟡 Medium |
+| Voice + full workspace + charts | [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | 🟢 Easy |
+| Kanban + soul editor + model switching | [VidClaw](https://github.com/madrzak/vidclaw) | 🟢 Easy |
+| Zero-dependency, 11 panels, 6 themes | [OpenClaw Dashboard (mudrii)](https://github.com/mudrii/openclaw-dashboard) | 🟢 Easy |
+| Maximum security + TOTP MFA | [OpenClaw Dashboard (tugcan)](https://github.com/tugcantopaloglu/openclaw-dashboard) | 🟢 Easy |
+| Lightweight, ~200KB, no framework | [Command Center (jontsai)](https://github.com/jontsai/openclaw-command-center) | 🟢 Easy |
+| btop/htop-style terminal view | [Claw Dashboard (spleck)](https://github.com/spleck/claw-dashboard) | 🟢 Easy |
+| Run OpenClaw on Android | [OpenClaw Termux](https://github.com/mithun50/openclaw-termux) | 🟢 Easy |
 
 ---
 
@@ -62,23 +62,23 @@ Freshly launched — these projects gained hundreds of stars within days:
 
 | Dashboard | ⭐ Stars | 🍴 Forks | Type | Difficulty | Platform | Database | Auth | Demo |
 |---|---|---|---|---|---|---|---|---|
-| [Mission Control (abhi1693)](#-openclaw-mission-control--abhi1693) | ![](https://img.shields.io/github/stars/abhi1693/openclaw-mission-control?style=flat-square) | ![](https://img.shields.io/github/forks/abhi1693/openclaw-mission-control?style=flat-square) | Web · Enterprise | 🟢 Easy | 🐧🍎 | PostgreSQL | ✅ Token | — |
-| [Mission Control (crshdn)](#-mission-control--crshdn) | ![](https://img.shields.io/github/stars/crshdn/mission-control?style=flat-square) | ![](https://img.shields.io/github/forks/crshdn/mission-control?style=flat-square) | Web · Task Board | 🟢 Easy | 🐧🍎🪟 | SQLite | ✅ Token | [Live](https://missioncontrol.ghray.com) |
-| [OpenClaw Studio](#️-openclaw-studio--grp06) | ![](https://img.shields.io/github/stars/grp06/openclaw-studio?style=flat-square) | ![](https://img.shields.io/github/forks/grp06/openclaw-studio?style=flat-square) | Web · General | 🟢 Easy | 🐧🍎🪟 | None | Optional | — |
-| [Clawe](#-clawe--getclawe) | ![](https://img.shields.io/github/stars/getclawe/clawe?style=flat-square) | ![](https://img.shields.io/github/forks/getclawe/clawe?style=flat-square) | Web · Multi-Agent | 🟡 Medium | 🐧🍎 | Convex | ✅ Token | [clawe.ai](https://clawe.ai) |
-| [TenacitOS](#-tenacitos--carlosazaustre) | ![](https://img.shields.io/github/stars/carlosazaustre/tenacitOS?style=flat-square) | ![](https://img.shields.io/github/forks/carlosazaustre/tenacitOS?style=flat-square) | Web · Full Suite | 🟡 Medium | 🐧🍎 | None | ✅ Password | — |
-| [AI Maestro](#-ai-maestro--23blocks-os) | ![](https://img.shields.io/github/stars/23blocks-OS/ai-maestro?style=flat-square) | ![](https://img.shields.io/github/forks/23blocks-OS/ai-maestro?style=flat-square) | Web · Multi-Machine | 🟢 Easy | 🐧🍎🪟 | None | ✅ Token | [ai-maestro.23blocks.com](https://ai-maestro.23blocks.com) |
-| [OpenClaw Termux](#-openclaw-termux--mithun50) | ![](https://img.shields.io/github/stars/mithun50/openclaw-termux?style=flat-square) | ![](https://img.shields.io/github/forks/mithun50/openclaw-termux?style=flat-square) | Mobile · Android | 🟢 Easy | 📱 | None | — | — |
-| [VidClaw](#-vidclaw--madrzak) | ![](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square) | ![](https://img.shields.io/github/forks/madrzak/vidclaw?style=flat-square) | Web · Developer | 🟢 Easy | 🐧🍎 | None | None | [vidclaw.com](http://vidclaw.com) |
-| [OC Dashboard (mudrii)](#-openclaw-dashboard--mudrii) | ![](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/mudrii/openclaw-dashboard?style=flat-square) | Web · Zero-Dep | 🟢 Easy | 🐧🍎 | None | None | — |
-| [OC Dashboard (tugcan)](#-openclaw-dashboard--tugcantopaloglu) | ![](https://img.shields.io/github/stars/tugcantopaloglu/openclaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/tugcantopaloglu/openclaw-dashboard?style=flat-square) | Web · Secure | 🟢 Easy | 🐧🍎🍓 | None | ✅ TOTP MFA | — |
-| [Clawd Control](#-clawd-control--temaki-ai) | ![](https://img.shields.io/github/stars/Temaki-AI/clawd-control?style=flat-square) | ![](https://img.shields.io/github/forks/Temaki-AI/clawd-control?style=flat-square) | Web · Fleet | 🟢 Easy | 🐧🍎 | None | ✅ Password | [clawdcontrol.com](https://clawdcontrol.com) |
-| [Nerve](#-nerve--daggerhashimoto) | ![](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square) | ![](https://img.shields.io/github/forks/daggerhashimoto/openclaw-nerve?style=flat-square) | Web · Full Suite | 🟢 Easy | 🐧🍎🪟 | None | ✅ Token | [nerve.zone](https://nerve.zone) |
-| [Command Center (jontsai)](#-openclaw-command-center--jontsai) | ![](https://img.shields.io/github/stars/jontsai/openclaw-command-center?style=flat-square) | ![](https://img.shields.io/github/forks/jontsai/openclaw-command-center?style=flat-square) | Web · Lightweight | 🟢 Easy | 🐧🍎🪟 | None | Multi-mode | [clawhub.ai](https://clawhub.ai/jontsai/command-center) |
-| [Claw Dashboard](#️-claw-dashboard--spleck) | ![](https://img.shields.io/github/stars/spleck/claw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/spleck/claw-dashboard?style=flat-square) | Terminal | 🟢 Easy | 🍎 | None | None | — |
-| [OC Agent Dashboard](#-openclaw-agent-dashboard--karem505) | ![](https://img.shields.io/github/stars/karem505/openclaw-agent-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/karem505/openclaw-agent-dashboard?style=flat-square) | Web · Single File | 🟢 Easy | 🐧🍎🪟 | None | None | — |
-| [Clawtrol](#️-clawtrol--nachoiacovino) | ![](https://img.shields.io/github/stars/nachoiacovino/clawtrol?style=flat-square) | ![](https://img.shields.io/github/forks/nachoiacovino/clawtrol?style=flat-square) | Web · Modular | 🟡 Medium | 🐧🍎🍓 | None | Optional | — |
-| [OC Dashboard (bokiko)](#-openclaw-dashboard--bokiko) | ![](https://img.shields.io/github/stars/bokiko/openClaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/bokiko/openClaw-dashboard?style=flat-square) | Web · Swarm | 🔴 Hard | 🐧🍎🪟 | PostgreSQL | ✅ JWT | — |
+| [Mission Control (abhi1693)](https://github.com/abhi1693/openclaw-mission-control) | ![](https://img.shields.io/github/stars/abhi1693/openclaw-mission-control?style=flat-square) | ![](https://img.shields.io/github/forks/abhi1693/openclaw-mission-control?style=flat-square) | Web · Enterprise | 🟢 Easy | 🐧🍎 | PostgreSQL | ✅ Token | — |
+| [Mission Control (crshdn)](https://github.com/crshdn/mission-control) | ![](https://img.shields.io/github/stars/crshdn/mission-control?style=flat-square) | ![](https://img.shields.io/github/forks/crshdn/mission-control?style=flat-square) | Web · Task Board | 🟢 Easy | 🐧🍎🪟 | SQLite | ✅ Token | [Live](https://missioncontrol.ghray.com) |
+| [OpenClaw Studio](https://github.com/grp06/openclaw-studio) | ![](https://img.shields.io/github/stars/grp06/openclaw-studio?style=flat-square) | ![](https://img.shields.io/github/forks/grp06/openclaw-studio?style=flat-square) | Web · General | 🟢 Easy | 🐧🍎🪟 | None | Optional | — |
+| [Clawe](https://github.com/getclawe/clawe) | ![](https://img.shields.io/github/stars/getclawe/clawe?style=flat-square) | ![](https://img.shields.io/github/forks/getclawe/clawe?style=flat-square) | Web · Multi-Agent | 🟡 Medium | 🐧🍎 | Convex | ✅ Token | [clawe.ai](https://clawe.ai) |
+| [TenacitOS](https://github.com/carlosazaustre/tenacitOS) | ![](https://img.shields.io/github/stars/carlosazaustre/tenacitOS?style=flat-square) | ![](https://img.shields.io/github/forks/carlosazaustre/tenacitOS?style=flat-square) | Web · Full Suite | 🟡 Medium | 🐧🍎 | None | ✅ Password | — |
+| [AI Maestro](https://github.com/23blocks-OS/ai-maestro) | ![](https://img.shields.io/github/stars/23blocks-OS/ai-maestro?style=flat-square) | ![](https://img.shields.io/github/forks/23blocks-OS/ai-maestro?style=flat-square) | Web · Multi-Machine | 🟢 Easy | 🐧🍎🪟 | None | ✅ Token | [ai-maestro.23blocks.com](https://ai-maestro.23blocks.com) |
+| [OpenClaw Termux](https://github.com/mithun50/openclaw-termux) | ![](https://img.shields.io/github/stars/mithun50/openclaw-termux?style=flat-square) | ![](https://img.shields.io/github/forks/mithun50/openclaw-termux?style=flat-square) | Mobile · Android | 🟢 Easy | 📱 | None | — | — |
+| [VidClaw](https://github.com/madrzak/vidclaw) | ![](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square) | ![](https://img.shields.io/github/forks/madrzak/vidclaw?style=flat-square) | Web · Developer | 🟢 Easy | 🐧🍎 | None | None | [vidclaw.com](http://vidclaw.com) |
+| [OC Dashboard (mudrii)](https://github.com/mudrii/openclaw-dashboard) | ![](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/mudrii/openclaw-dashboard?style=flat-square) | Web · Zero-Dep | 🟢 Easy | 🐧🍎 | None | None | — |
+| [OC Dashboard (tugcan)](https://github.com/tugcantopaloglu/openclaw-dashboard) | ![](https://img.shields.io/github/stars/tugcantopaloglu/openclaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/tugcantopaloglu/openclaw-dashboard?style=flat-square) | Web · Secure | 🟢 Easy | 🐧🍎🍓 | None | ✅ TOTP MFA | — |
+| [Clawd Control](https://github.com/Temaki-AI/clawd-control) | ![](https://img.shields.io/github/stars/Temaki-AI/clawd-control?style=flat-square) | ![](https://img.shields.io/github/forks/Temaki-AI/clawd-control?style=flat-square) | Web · Fleet | 🟢 Easy | 🐧🍎 | None | ✅ Password | [clawdcontrol.com](https://clawdcontrol.com) |
+| [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | ![](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square) | ![](https://img.shields.io/github/forks/daggerhashimoto/openclaw-nerve?style=flat-square) | Web · Full Suite | 🟢 Easy | 🐧🍎🪟 | None | ✅ Token | [nerve.zone](https://nerve.zone) |
+| [Command Center (jontsai)](https://github.com/jontsai/openclaw-command-center) | ![](https://img.shields.io/github/stars/jontsai/openclaw-command-center?style=flat-square) | ![](https://img.shields.io/github/forks/jontsai/openclaw-command-center?style=flat-square) | Web · Lightweight | 🟢 Easy | 🐧🍎🪟 | None | Multi-mode | [clawhub.ai](https://clawhub.ai/jontsai/command-center) |
+| [Claw Dashboard](https://github.com/spleck/claw-dashboard) | ![](https://img.shields.io/github/stars/spleck/claw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/spleck/claw-dashboard?style=flat-square) | Terminal | 🟢 Easy | 🍎 | None | None | — |
+| [OC Agent Dashboard](https://github.com/karem505/openclaw-agent-dashboard) | ![](https://img.shields.io/github/stars/karem505/openclaw-agent-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/karem505/openclaw-agent-dashboard?style=flat-square) | Web · Single File | 🟢 Easy | 🐧🍎🪟 | None | None | — |
+| [Clawtrol](https://github.com/nachoiacovino/clawtrol) | ![](https://img.shields.io/github/stars/nachoiacovino/clawtrol?style=flat-square) | ![](https://img.shields.io/github/forks/nachoiacovino/clawtrol?style=flat-square) | Web · Modular | 🟡 Medium | 🐧🍎🍓 | None | Optional | — |
+| [OC Dashboard (bokiko)](https://github.com/bokiko/openClaw-dashboard) | ![](https://img.shields.io/github/stars/bokiko/openClaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/bokiko/openClaw-dashboard?style=flat-square) | Web · Swarm | 🔴 Hard | 🐧🍎🪟 | PostgreSQL | ✅ JWT | — |
 
 **Difficulty:** 🟢 Easy = single command or npx · 🟡 Medium = account/Docker needed · 🔴 Hard = multiple services
 **Platform:** 🍎 macOS · 🐧 Linux · 🪟 Windows(WSL) · 🍓 Raspberry Pi · 📱 Android
@@ -91,23 +91,23 @@ Find the right dashboard by the features you need most.
 
 | Dashboard | Kanban | Cost Track | Memory | Cron | Voice | Multi-Agent | Docker | Auth/MFA | Mobile UI | File Browser | AI Chat | Sys Health | Approvals | Remote Screen | Zero-Dep |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Mission Control (abhi1693)](#-openclaw-mission-control--abhi1693) | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ |
-| [Mission Control (crshdn)](#-mission-control--crshdn) | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [OpenClaw Studio](#️-openclaw-studio--grp06) | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ⚡ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| [Clawe](#-clawe--getclawe) | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [TenacitOS](#-tenacitos--carlosazaustre) | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [AI Maestro](#-ai-maestro--23blocks-os) | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [OpenClaw Termux](#-openclaw-termux--mithun50) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [VidClaw](#-vidclaw--madrzak) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| [OC Dashboard (mudrii)](#-openclaw-dashboard--mudrii) | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ |
-| [OC Dashboard (tugcan)](#-openclaw-dashboard--tugcantopaloglu) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ MFA | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [Clawd Control](#-clawd-control--temaki-ai) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [Nerve](#-nerve--daggerhashimoto) | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
-| [Command Center (jontsai)](#-openclaw-command-center--jontsai) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
-| [Claw Dashboard](#️-claw-dashboard--spleck) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [OC Agent Dashboard](#-openclaw-agent-dashboard--karem505) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
-| [Clawtrol](#️-clawtrol--nachoiacovino) | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ⚡ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
-| [OC Dashboard (bokiko)](#-openclaw-dashboard--bokiko) | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ JWT | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [Mission Control (abhi1693)](https://github.com/abhi1693/openclaw-mission-control) | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ |
+| [Mission Control (crshdn)](https://github.com/crshdn/mission-control) | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [OpenClaw Studio](https://github.com/grp06/openclaw-studio) | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ⚡ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| [Clawe](https://github.com/getclawe/clawe) | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [TenacitOS](https://github.com/carlosazaustre/tenacitOS) | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| [AI Maestro](https://github.com/23blocks-OS/ai-maestro) | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [OpenClaw Termux](https://github.com/mithun50/openclaw-termux) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| [VidClaw](https://github.com/madrzak/vidclaw) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| [OC Dashboard (mudrii)](https://github.com/mudrii/openclaw-dashboard) | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ |
+| [OC Dashboard (tugcan)](https://github.com/tugcantopaloglu/openclaw-dashboard) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ MFA | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Clawd Control](https://github.com/Temaki-AI/clawd-control) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| [Command Center (jontsai)](https://github.com/jontsai/openclaw-command-center) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [Claw Dashboard](https://github.com/spleck/claw-dashboard) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| [OC Agent Dashboard](https://github.com/karem505/openclaw-agent-dashboard) | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| [Clawtrol](https://github.com/nachoiacovino/clawtrol) | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ⚡ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| [OC Dashboard (bokiko)](https://github.com/bokiko/openClaw-dashboard) | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ JWT | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 
 **Legend:** ✅ Full support · ⚡ Partial · ❌ Not available
 
