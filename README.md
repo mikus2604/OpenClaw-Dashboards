@@ -25,16 +25,16 @@ This repo lists every community-built dashboard for OpenClaw so you can see your
 
 ---
 
-## 🆕 New This Month *(Feb 2026)*
+## 🔥 Trending This Month *(May 2026)*
 
-Freshly launched — these projects gained hundreds of stars within days:
+The most active and fastest-growing dashboards right now:
 
-| Dashboard | ⭐ | Launched | Why it stands out |
+| Dashboard | ⭐ | Last Updated | Why it stands out |
 |---|---|---|---|
-| [TenacitOS](https://github.com/carlosazaustre/tenacitOS) | ![](https://img.shields.io/github/stars/carlosazaustre/tenacitOS?style=flat-square&logo=github) | Feb 21 | 3D office, filesystem-native, zero extra infra |
-| [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | ![](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&logo=github) | Feb 19 | Voice in 12 languages, TradingView charts, 14 themes |
-| [VidClaw](https://github.com/madrzak/vidclaw) | ![](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square&logo=github) | Feb 16 | Soul editor, model switching, one-command install |
-| [Clawtrol](https://github.com/nachoiacovino/clawtrol) | ![](https://img.shields.io/github/stars/nachoiacovino/clawtrol?style=flat-square&logo=github) | Feb 11 | Remote screen viewer, RPi support, modular setup wizard |
+| [Mission Control (crshdn)](https://github.com/crshdn/mission-control) | ![](https://img.shields.io/github/stars/crshdn/mission-control?style=flat-square&logo=github) | May 17 | Crossed 2K stars, active feature push this month |
+| [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | ![](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&logo=github) | May 20 | 7× star growth since launch — voice + charts combo resonating |
+| [OpenClaw Termux](https://github.com/mithun50/openclaw-termux) | ![](https://img.shields.io/github/stars/mithun50/openclaw-termux?style=flat-square&logo=github) | May 20 | Mobile is booming — 1.5K stars, updated this week |
+| [OC Dashboard (mudrii)](https://github.com/mudrii/openclaw-dashboard) | ![](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=flat-square&logo=github) | May 20 | Zero-dep dashboard keeps growing — 3.5× since Feb |
 
 ---
 
@@ -69,9 +69,9 @@ Freshly launched — these projects gained hundreds of stars within days:
 | [TenacitOS](https://github.com/carlosazaustre/tenacitOS) | ![](https://img.shields.io/github/stars/carlosazaustre/tenacitOS?style=flat-square) | ![](https://img.shields.io/github/forks/carlosazaustre/tenacitOS?style=flat-square) | Web · Full Suite | 🟡 Medium | 🐧🍎 | None | ✅ Password | — |
 | [AI Maestro](https://github.com/23blocks-OS/ai-maestro) | ![](https://img.shields.io/github/stars/23blocks-OS/ai-maestro?style=flat-square) | ![](https://img.shields.io/github/forks/23blocks-OS/ai-maestro?style=flat-square) | Web · Multi-Machine | 🟢 Easy | 🐧🍎🪟 | None | ✅ Token | [ai-maestro.23blocks.com](https://ai-maestro.23blocks.com) |
 | [OpenClaw Termux](https://github.com/mithun50/openclaw-termux) | ![](https://img.shields.io/github/stars/mithun50/openclaw-termux?style=flat-square) | ![](https://img.shields.io/github/forks/mithun50/openclaw-termux?style=flat-square) | Mobile · Android | 🟢 Easy | 📱 | None | — | — |
-| [VidClaw](https://github.com/madrzak/vidclaw) | ![](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square) | ![](https://img.shields.io/github/forks/madrzak/vidclaw?style=flat-square) | Web · Developer | 🟢 Easy | 🐧🍎 | None | None | [vidclaw.com](http://vidclaw.com) |
 | [OC Dashboard (mudrii)](https://github.com/mudrii/openclaw-dashboard) | ![](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/mudrii/openclaw-dashboard?style=flat-square) | Web · Zero-Dep | 🟢 Easy | 🐧🍎 | None | None | — |
 | [OC Dashboard (tugcan)](https://github.com/tugcantopaloglu/openclaw-dashboard) | ![](https://img.shields.io/github/stars/tugcantopaloglu/openclaw-dashboard?style=flat-square) | ![](https://img.shields.io/github/forks/tugcantopaloglu/openclaw-dashboard?style=flat-square) | Web · Secure | 🟢 Easy | 🐧🍎🍓 | None | ✅ TOTP MFA | — |
+| [VidClaw](https://github.com/madrzak/vidclaw) | ![](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square) | ![](https://img.shields.io/github/forks/madrzak/vidclaw?style=flat-square) | Web · Developer | 🟢 Easy | 🐧🍎 | None | None | [vidclaw.com](http://vidclaw.com) |
 | [Clawd Control](https://github.com/Temaki-AI/clawd-control) | ![](https://img.shields.io/github/stars/Temaki-AI/clawd-control?style=flat-square) | ![](https://img.shields.io/github/forks/Temaki-AI/clawd-control?style=flat-square) | Web · Fleet | 🟢 Easy | 🐧🍎 | None | ✅ Password | [clawdcontrol.com](https://clawdcontrol.com) |
 | [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | ![](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square) | ![](https://img.shields.io/github/forks/daggerhashimoto/openclaw-nerve?style=flat-square) | Web · Full Suite | 🟢 Easy | 🐧🍎🪟 | None | ✅ Token | [nerve.zone](https://nerve.zone) |
 | [Command Center (jontsai)](https://github.com/jontsai/openclaw-command-center) | ![](https://img.shields.io/github/stars/jontsai/openclaw-command-center?style=flat-square) | ![](https://img.shields.io/github/forks/jontsai/openclaw-command-center?style=flat-square) | Web · Lightweight | 🟢 Easy | 🐧🍎🪟 | None | Multi-mode | [clawhub.ai](https://clawhub.ai/jontsai/command-center) |
@@ -98,9 +98,9 @@ Find the right dashboard by the features you need most.
 | [TenacitOS](https://github.com/carlosazaustre/tenacitOS) | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
 | [AI Maestro](https://github.com/23blocks-OS/ai-maestro) | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [OpenClaw Termux](https://github.com/mithun50/openclaw-termux) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| [VidClaw](https://github.com/madrzak/vidclaw) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [OC Dashboard (mudrii)](https://github.com/mudrii/openclaw-dashboard) | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ |
 | [OC Dashboard (tugcan)](https://github.com/tugcantopaloglu/openclaw-dashboard) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ MFA | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| [VidClaw](https://github.com/madrzak/vidclaw) | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | [Clawd Control](https://github.com/Temaki-AI/clawd-control) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
 | [Nerve](https://github.com/daggerhashimoto/openclaw-nerve) | ❌ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | [Command Center (jontsai)](https://github.com/jontsai/openclaw-command-center) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
@@ -430,108 +430,6 @@ Single-user and developer-focused dashboards for monitoring agents, tracking cos
 
 ---
 
-### ⚡ Nerve · [daggerhashimoto](https://github.com/daggerhashimoto/openclaw-nerve) ✨ *New Feb 19*
-
-[![GitHub Stars](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&logo=github&color=gold)](https://github.com/daggerhashimoto/openclaw-nerve)
-[![Forks](https://img.shields.io/github/forks/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/forks)
-[![Last Commit](https://img.shields.io/github/last-commit/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/commits)
-[![Language](https://img.shields.io/github/languages/top/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve)
-[![License](https://img.shields.io/github/license/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/blob/master/LICENSE)
-[![Issues](https://img.shields.io/github/issues/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/issues)
-[![Discord](https://img.shields.io/discord/1474924531683688478?style=flat-square&logo=discord&label=Discord&color=5865F2)](https://discord.gg/Sh9ZGtctva)
-[![Homepage](https://img.shields.io/badge/homepage-nerve.zone-blue?style=flat-square)](https://nerve.zone)
-
-> The cockpit for your OpenClaw agents. Voice in 12 languages, live inline charts (TradingView), full workspace editing, 14 themes. One install script. Running in 30 seconds.
-
-| | |
-|---|---|
-| **Difficulty** | 🟢 Easy — one `curl` install script |
-| **Platform** | 🐧 Linux · 🍎 macOS · 🪟 Windows |
-| **Database** | None (filesystem) |
-| **Tags** | `voice` `whisper-stt` `tradingview` `charts` `workspace` `file-browser` `14-themes` `cron` `sub-agents` `openclaw` `self-hosted` |
-
-<table>
-<tr>
-<td width="60%" valign="top">
-<a href="https://github.com/daggerhashimoto/openclaw-nerve">
-<img src="https://raw.githubusercontent.com/daggerhashimoto/openclaw-nerve/master/docs/demo.gif" alt="Nerve demo" width="100%">
-</a>
-</td>
-<td width="40%" valign="top">
-
-**Key Features**
-
-- 🎤 Voice in 12 languages — on-device Whisper (no API key)
-- 📈 Live inline charts: TradingView, candlesticks, data viz
-- 📝 CodeMirror workspace editor (conflict-safe, lock protection)
-- 📂 File browser with tabs, full-screen lightbox
-- 🎨 14 themes (dark, light, and everything between)
-- 🤖 Sub-agent sessions with per-session model overrides
-- ⏰ Cron scheduling with live session watch
-- ⌨️ Cmd+K command palette (keyboard-first)
-- 🔑 In-UI API key management with hot-reload
-- 📱 Fully responsive: desktop, tablet, mobile
-
-**Stack:** TypeScript · React · Node.js
-**Install:** `curl -fsSL .../install.sh | bash`
-**Homepage:** [nerve.zone](https://nerve.zone)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🗂️ VidClaw · [madrzak](https://github.com/madrzak/vidclaw) ✨ *New Feb 16*
-
-[![GitHub Stars](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square&logo=github&color=gold)](https://github.com/madrzak/vidclaw)
-[![Forks](https://img.shields.io/github/forks/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/forks)
-[![Last Commit](https://img.shields.io/github/last-commit/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/commits)
-[![Language](https://img.shields.io/github/languages/top/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw)
-[![License](https://img.shields.io/github/license/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/blob/main/LICENSE)
-[![Issues](https://img.shields.io/github/issues/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/issues)
-[![Homepage](https://img.shields.io/badge/homepage-vidclaw.com-blue?style=flat-square)](http://vidclaw.com)
-
-> A secure self-hosted command center with a unique Soul Editor — edit SOUL.md, IDENTITY.md, USER.md with version history. Kanban, model switching, activity calendar, and skill management.
-
-| | |
-|---|---|
-| **Difficulty** | 🟢 Easy — `curl vidclaw.com/install.sh \| bash` |
-| **Platform** | 🐧 Linux · 🍎 macOS |
-| **Database** | None (filesystem) |
-| **Tags** | `kanban` `soul-editor` `model-switching` `cost-tracking` `file-browser` `skills-manager` `tailscale` `openclaw` |
-
-<table>
-<tr>
-<td width="60%" valign="top">
-<a href="https://github.com/madrzak/vidclaw">
-<img src="https://raw.githubusercontent.com/madrzak/vidclaw/main/docs/screenshot.png" alt="VidClaw screenshot" width="100%">
-</a>
-</td>
-<td width="40%" valign="top">
-
-**Key Features**
-
-- 🗂️ Kanban Task Board (Backlog → Todo → In Progress → Done)
-- 📊 Real-time token usage + cost estimates
-- 🔄 Model switching (hot-reload via config watcher)
-- 📅 Monthly activity calendar from memory & task history
-- 📁 Content browser with markdown preview + syntax highlighting
-- 🧩 Skills manager: view, enable/disable, create custom skills
-- 💜 **Soul Editor**: SOUL.md, IDENTITY.md, USER.md with version history
-- ⚡ Auto task execution via cron + heartbeat
-- 🔒 localhost-only + Tailscale Serve for remote access
-
-**Stack:** TypeScript · Node.js
-**Install:** `curl -fsSL vidclaw.com/install.sh | bash`
-**Homepage:** [vidclaw.com](http://vidclaw.com)
-
-</td>
-</tr>
-</table>
-
----
-
 ### 📊 OpenClaw Dashboard · [mudrii](https://github.com/mudrii/openclaw-dashboard)
 
 [![GitHub Stars](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=flat-square&logo=github&color=gold)](https://github.com/mudrii/openclaw-dashboard)
@@ -630,6 +528,56 @@ Single-user and developer-focused dashboards for monitoring agents, tracking cos
 
 ---
 
+### 🗂️ VidClaw · [madrzak](https://github.com/madrzak/vidclaw) ✨ *New Feb 16*
+
+[![GitHub Stars](https://img.shields.io/github/stars/madrzak/vidclaw?style=flat-square&logo=github&color=gold)](https://github.com/madrzak/vidclaw)
+[![Forks](https://img.shields.io/github/forks/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/forks)
+[![Last Commit](https://img.shields.io/github/last-commit/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/commits)
+[![Language](https://img.shields.io/github/languages/top/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw)
+[![License](https://img.shields.io/github/license/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/blob/main/LICENSE)
+[![Issues](https://img.shields.io/github/issues/madrzak/vidclaw?style=flat-square)](https://github.com/madrzak/vidclaw/issues)
+[![Homepage](https://img.shields.io/badge/homepage-vidclaw.com-blue?style=flat-square)](http://vidclaw.com)
+
+> A secure self-hosted command center with a unique Soul Editor — edit SOUL.md, IDENTITY.md, USER.md with version history. Kanban, model switching, activity calendar, and skill management.
+
+| | |
+|---|---|
+| **Difficulty** | 🟢 Easy — `curl vidclaw.com/install.sh \| bash` |
+| **Platform** | 🐧 Linux · 🍎 macOS |
+| **Database** | None (filesystem) |
+| **Tags** | `kanban` `soul-editor` `model-switching` `cost-tracking` `file-browser` `skills-manager` `tailscale` `openclaw` |
+
+<table>
+<tr>
+<td width="60%" valign="top">
+<a href="https://github.com/madrzak/vidclaw">
+<img src="https://raw.githubusercontent.com/madrzak/vidclaw/main/docs/screenshot.png" alt="VidClaw screenshot" width="100%">
+</a>
+</td>
+<td width="40%" valign="top">
+
+**Key Features**
+
+- 🗂️ Kanban Task Board (Backlog → Todo → In Progress → Done)
+- 📊 Real-time token usage + cost estimates
+- 🔄 Model switching (hot-reload via config watcher)
+- 📅 Monthly activity calendar from memory & task history
+- 📁 Content browser with markdown preview + syntax highlighting
+- 🧩 Skills manager: view, enable/disable, create custom skills
+- 💜 **Soul Editor**: SOUL.md, IDENTITY.md, USER.md with version history
+- ⚡ Auto task execution via cron + heartbeat
+- 🔒 localhost-only + Tailscale Serve for remote access
+
+**Stack:** TypeScript · Node.js
+**Install:** `curl -fsSL vidclaw.com/install.sh | bash`
+**Homepage:** [vidclaw.com](http://vidclaw.com)
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🏰 Clawd Control · [Temaki-AI](https://github.com/Temaki-AI/clawd-control)
 
 [![GitHub Stars](https://img.shields.io/github/stars/Temaki-AI/clawd-control?style=flat-square&logo=github&color=gold)](https://github.com/Temaki-AI/clawd-control)
@@ -673,6 +621,58 @@ Single-user and developer-focused dashboards for monitoring agents, tracking cos
 
 **Stack:** HTML · Node.js
 **Install:** `npm install && npm start`
+
+</td>
+</tr>
+</table>
+
+---
+
+### ⚡ Nerve · [daggerhashimoto](https://github.com/daggerhashimoto/openclaw-nerve) ✨ *New Feb 19*
+
+[![GitHub Stars](https://img.shields.io/github/stars/daggerhashimoto/openclaw-nerve?style=flat-square&logo=github&color=gold)](https://github.com/daggerhashimoto/openclaw-nerve)
+[![Forks](https://img.shields.io/github/forks/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/forks)
+[![Last Commit](https://img.shields.io/github/last-commit/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/commits)
+[![Language](https://img.shields.io/github/languages/top/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve)
+[![License](https://img.shields.io/github/license/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/daggerhashimoto/openclaw-nerve?style=flat-square)](https://github.com/daggerhashimoto/openclaw-nerve/issues)
+[![Discord](https://img.shields.io/discord/1474924531683688478?style=flat-square&logo=discord&label=Discord&color=5865F2)](https://discord.gg/Sh9ZGtctva)
+[![Homepage](https://img.shields.io/badge/homepage-nerve.zone-blue?style=flat-square)](https://nerve.zone)
+
+> The cockpit for your OpenClaw agents. Voice in 12 languages, live inline charts (TradingView), full workspace editing, 14 themes. One install script. Running in 30 seconds.
+
+| | |
+|---|---|
+| **Difficulty** | 🟢 Easy — one `curl` install script |
+| **Platform** | 🐧 Linux · 🍎 macOS · 🪟 Windows |
+| **Database** | None (filesystem) |
+| **Tags** | `voice` `whisper-stt` `tradingview` `charts` `workspace` `file-browser` `14-themes` `cron` `sub-agents` `openclaw` `self-hosted` |
+
+<table>
+<tr>
+<td width="60%" valign="top">
+<a href="https://github.com/daggerhashimoto/openclaw-nerve">
+<img src="https://raw.githubusercontent.com/daggerhashimoto/openclaw-nerve/master/docs/demo.gif" alt="Nerve demo" width="100%">
+</a>
+</td>
+<td width="40%" valign="top">
+
+**Key Features**
+
+- 🎤 Voice in 12 languages — on-device Whisper (no API key)
+- 📈 Live inline charts: TradingView, candlesticks, data viz
+- 📝 CodeMirror workspace editor (conflict-safe, lock protection)
+- 📂 File browser with tabs, full-screen lightbox
+- 🎨 14 themes (dark, light, and everything between)
+- 🤖 Sub-agent sessions with per-session model overrides
+- ⏰ Cron scheduling with live session watch
+- ⌨️ Cmd+K command palette (keyboard-first)
+- 🔑 In-UI API key management with hot-reload
+- 📱 Fully responsive: desktop, tablet, mobile
+
+**Stack:** TypeScript · React · Node.js
+**Install:** `curl -fsSL .../install.sh | bash`
+**Homepage:** [nerve.zone](https://nerve.zone)
 
 </td>
 </tr>
@@ -1015,7 +1015,7 @@ Additionally, a [GitHub Actions workflow](.github/workflows/update-stars.yml) ru
 | Metric | Value |
 |---|---|
 | Total dashboards | 17 |
-| Web dashboards | 14 |
+| Web dashboards | 15 |
 | Terminal dashboards | 1 |
 | Mobile apps | 1 |
 | Multi-agent platforms | 4 |
